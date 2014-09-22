@@ -1,0 +1,4 @@
+execlinktest
+============
+
+executable export symbols
